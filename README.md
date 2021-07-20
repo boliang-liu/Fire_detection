@@ -12,6 +12,6 @@
 [Boliang Liu](https://www.linkedin.com/in/boliang-liu/) <br>
 [Huidong Xu](https://www.linkedin.com/in/huidong-xu/)
 
-<img src = './Readme/fire_69.png' height = 250>   <img src = './readme/new_image_boy.png' height = 250>
+<img src = './Readme/fire.69.png' height = 250>   <img src = './readme/non_fire.98.png' height = 250>
 
 
