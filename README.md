@@ -4,7 +4,7 @@
 
 # Description
 
-*Classify if there's fire in images*
+Classify if there's fire in images
 
 
 
@@ -15,3 +15,9 @@
 <img src = './Readme/fire.69.png' height = 250>            <img src = './Readme/non_fire.98.png' height = 250>
 
 
+
+# Model
+
+
+
+# Outcomes
