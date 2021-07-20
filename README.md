@@ -7,7 +7,7 @@
 *Classify if there's fire in images*
 
 # Contributors
-[Boliang Liu](https://www.linkedin.com/in/boliang-liu/)
+[Boliang Liu](https://www.linkedin.com/in/boliang-liu/) </h>
 [Huidong Xu](https://www.linkedin.com/in/huidong-xu/)
 
 <img src = './readme/new_image_girl.png' height = 250>   <img src = './readme/new_image_boy.png' height = 250>
