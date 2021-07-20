@@ -2,14 +2,16 @@
 *Final project of Deep Learning, USF MSDS program*
 
 
-# About
+# Description
 
 *Classify if there's fire in images*
+
+
 
 # Contributors
 [Boliang Liu](https://www.linkedin.com/in/boliang-liu/) <br>
 [Huidong Xu](https://www.linkedin.com/in/huidong-xu/)
 
-<img src = './readme/new_image_girl.png' height = 250>   <img src = './readme/new_image_boy.png' height = 250>
+<img src = './Readme/fire_69.png' height = 250>   <img src = './readme/new_image_boy.png' height = 250>
 
 
