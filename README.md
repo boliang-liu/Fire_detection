@@ -26,7 +26,7 @@ In this project, we used 3 techniques/model:
 
 1. Data Augmentation
 
-For train set: Random crop; Rotate; Flip
+For train set: Random crop; Rotate; Flip <br>
 For test set: Center crop
 
 2. Model
@@ -35,11 +35,12 @@ Pretrained Resnet34: Remove the last two layers; Divide layers into two parts; A
 
 3. Different Learning Rates
 
-1st group: 0.001/9
-2nd group: 0.001/3
-3rd group: 0.001
+1st group: 0.001/9 <br>
+2nd group: 0.001/3 <br>
+3rd group: 0.001 
 
 
 
 # Outcomes
 
+<img src = './Readme/outcomes.png' height = 250> 
