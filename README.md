@@ -6,9 +6,11 @@
 
 This project is to build a classifier to detect if the image contains fire.
 
-Dataset is from https://www.kaggle.com/phylake1337/fire-datase.
+The dataset is from https://www.kaggle.com/phylake1337/fire-datase.
 
+There are 755 fire images and 244 non-fire images. Fire images contains fire and smoke while non-fire images contains forest, grass, river, etc.
 
+We divided the dataset into train : validation : test = 60% : 20% : 20%.
 
 
 
