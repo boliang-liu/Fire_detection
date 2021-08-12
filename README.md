@@ -4,7 +4,11 @@
 
 # Description
 
-Classify if there's fire in images
+This project is to build a classifier to detect if the image contains fire.
+
+Dataset is from https://www.kaggle.com/phylake1337/fire-datase.
+
+
 
 
 
